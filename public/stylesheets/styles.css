@@ -47,14 +47,14 @@ Hero Image / Title Styles
 	-moz-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
-  transform: translateX(-50%);
+	transform: translateX(-50%);
 
-  bottom: 0;
-  margin: 0px;
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 2.20em;
-  letter-spacing: 0.4px;
+	bottom: 0;
+	margin: 0px;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 2.20em;
+	letter-spacing: 0.4px;
 }
 
 
@@ -135,19 +135,19 @@ Home Page Posters Styles
 .poster-info-overlay h3 {
 	text-transform: uppercase;
 	font-weight: 400;
-  font-size: 13px;
-  letter-spacing: 0.3px;
-  color: #fff;
-  margin: 0px;
+	font-size: 13px;
+	letter-spacing: 0.3px;
+	color: #fff;
+	margin: 0px;
 }
 .poster-info-overlay h4 {
 	text-transform: uppercase;
 	font-weight: 400;
-  font-size: 11px;
-  letter-spacing: 0.3px;
-  color: #fff;
-  margin: 0px;	
-  margin-top: 15px;
+	font-size: 11px;
+	letter-spacing: 0.3px;
+	color: #fff;
+	margin: 0px;	
+	margin-top: 15px;
 }
 .poster:hover .poster-info-overlay {
 	opacity: 1;
@@ -260,16 +260,16 @@ Movie-Single Hero Image and Title Styles
 	-moz-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
-  transform: translateX(-50%);
+	transform: translateX(-50%);
 
-  bottom: 0;
+	bottom: 0;
 
-  margin: 0px;
+	margin: 0px;
 
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 1.20em;
-  letter-spacing: 0.4px;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 1.20em;
+	letter-spacing: 0.4px;
 }
 
 
@@ -283,25 +283,25 @@ Movie-Single Poster and Description Styles
 	float: left;
 	width: 30%;
 	margin-top: 50px;
+	margin-right: 50px;
 }
 
 .description-wrapper {
 	float: right;
-	margin-left: 5%;
 	width: 65%;
 	margin-top: 50px;
 }
 
 .movie-header {
 	text-transform: uppercase;
-  font-weight: 400;
-  font-size: 0.95em;
-  letter-spacing: 0.4px;
-  padding: 15px 25px;
-  border: 2px solid #333;
-  display: inline-block;
-  margin-top: 0px;
-  margin-bottom: 15px;
+	font-weight: 400;
+	font-size: 0.95em;
+	letter-spacing: 0.4px;
+	padding: 15px 25px;
+	border: 2px solid #333;
+	display: inline-block;
+	margin-top: 0px;
+	margin-bottom: 15px;
 }
 
 .description-wrapper p {
@@ -313,7 +313,6 @@ Movie-Single Poster and Description Styles
 
 .main-characters {
 	float: right;
-	margin-left: 5%;
 	width: 65%;
 }
 
@@ -375,6 +374,11 @@ Media Queries / Responsive Styles
 		margin-right: auto;
 		margin-left: auto;
 	}
+
+	.main-characters {
+		width: 100%;
+	}
+
 	.description-wrapper {
 		margin-top: 30px;
 		width: 100%;
@@ -504,12 +508,12 @@ Page Not Found Template Styles
 	-moz-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
-  transform: translateX(-50%);
+	transform: translateX(-50%);
 
-  bottom: 0;
-  margin: 0px;
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 1.20em;
-  letter-spacing: 0.4px;
+	bottom: 0;
+	margin: 0px;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 1.20em;
+	letter-spacing: 0.4px;
 }
