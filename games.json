@@ -5,7 +5,7 @@
     "main_characters" : ["Beautiful girl", "Money bag", "Banknotes"],
     "description" : "This game is very simple and can be played using only a mouse. It is a single player game. The main goal is to catch money to get a girl naked. But banknotes begin to fall down faster all time and this goal becomes more difficult to achieve. The main idea of this game is that an impressive amount of money can enslave people.",
     "poster" : "game_1.jpg",
-    "hero_image" : "star_wars_episode_1_hero.jpg"
+    "hero_image" : "back_1.jpg"
   },
 
   {
@@ -14,16 +14,16 @@
     "main_characters" : ["Grandma", "Grandpa", "Cars"],
     "description" : "This game is very simple but very fun for two players. The main goal is to reach another side of a highway full of cars. Every player has his own area for moving and it is impossible to obstruct an opponent. But this game does not have the end, players decide by themselves when someone wins. The main fun is in a competition.",
     "poster" : "game_2.jpg",
-    "hero_image" : "star_wars_episode_2_hero.jpg"
+    "hero_image" : "back_2.png"
   },
 
   {
     "title" : "Tank Battles",
     "game_number" : "3",
-    "main_characters" : ["Panzer IV", "T30 Heavy Tank"],
-    "description" : "Three years after the onset of the Clone Wars; the noble Jedi Knights are spread out across the galaxy leading a massive clone army in the war against the Separatists. After Chancellor Palpatine is kidnapped, Jedi Master Obi-Wan Kenobi and his former Padawan, Anakin Skywalker, are dispatched to eliminate the evil General Grievous. Meanwhile, Anakin's friendship with the Chancellor arouses suspicion in the Jedi Order, and dangerous to the Jedi Knight himself. When the sinister Sith Lord, Darth Sidious, unveils a plot to take over the galaxy, the fate of Anakin, the Jedi order, and the entire galaxy is at stake. Upon his return, Anakin Skywalker's wife Padme Amidala is pregnant, but he is having visions of her dying in childbirth. Anakin Skywalker ultimately turns his back on the Jedi, thus completing his journey to the dark side and his transformation into Darth Vader. Obi-Wan Kenobi must face his former apprentice in a ferocious lightsaber duel on the fiery world of Mustafar.",
+    "main_characters" : ["Panzer IV", "T30 Heavy Tank", "Tree"],
+    "description" : "There are two modes in this game - single player and for two players. The main goal is to destroy an opponent before he has destroyed you. In case of a single player mode, role of the opponent plays simple but effective Artificial Intelligence (AI) that makes this game interesting to play even for one player.",
     "poster" : "game_3.jpg",
-    "hero_image" : "star_wars_episode_3_hero.jpg"
+    "hero_image" : "back_3.jpg"
   },
 
   {
@@ -32,7 +32,7 @@
     "main_characters" : ["Sparty", "Princess", "Evil enemies"],
     "description" : "Super Sparty is a classical platform video game, which was developed in a pixel art style. Player controls the protagonist Sparty as he runs, jumps, and climbs across the game's levels. Sparty jumps and stomps on enemies to defeat them, and can collect coins, but the main goal of every level is to reach to the rose of his beloved princess.",
     "poster" : "game_4.jpg",
-    "hero_image" : "star_wars_episode_4_hero.jpg"
+    "hero_image" : "back_4.png"
   },
 
   {
@@ -41,7 +41,7 @@
     "main_characters" : ["Rock", "Paper", "Scissors", "Lizard", "Spock"],
     "description" : "This game is an expansion on the Rock, Paper, Scissors with two additional elements, that was first used to settle a dispute about what to watch on TV between Sheldon and Raj in \"The Lizard-Spock Expansion\" episode of the Big Bang Theory. So you can practice it to impress your friends. And also you can be sure that computer will not cheat ever! :)",
     "poster" : "game_5.jpg",
-    "hero_image" : "star_wars_episode_5_hero.jpg"
+    "hero_image" : "back_5.png"
   }]
 
 }

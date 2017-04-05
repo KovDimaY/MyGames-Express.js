@@ -18,7 +18,7 @@ body {
 Hero Image / Title Styles 
 ----------------------------- */
 #hero-image {
-	height: 350px;
+	height: 500px;
 	width: 100%;
 	background-color: #444;
 	background-image: url('../images/poster.jpg');
@@ -193,17 +193,23 @@ footer .social-media-icons i {
 	transition: 0.5s ease-in-out;
 }
 
-footer .social-media-icons a:first-child {
+footer .social-media-icons a {
 	margin-right: 20px;
 }
 
-footer .social-media-icons a:last-child:hover i {
-	color: #af0b0c;
+
+footer .footer-facebook:hover i {
+	color: #3b5998;
 }
 
-footer .social-media-icons a:first-child:hover i {
-	color: #333;
+footer .footer-vk:hover i {
+	color: #000000;
 }
+
+footer .footer-linkedin:hover i {
+	color: #0077b5;
+}
+
 
 
 
@@ -305,6 +311,12 @@ Movie-Single Poster and Description Styles
 	margin-bottom: 25px;
 }
 
+.main-characters {
+	float: right;
+	margin-left: 5%;
+	width: 65%;
+}
+
 .main-characters ul li {
 	display: inline-block;
 	list-style: none;
@@ -316,6 +328,7 @@ Movie-Single Poster and Description Styles
 
 .main-characters ul {
 	padding-left: 0px;
+
 }
 
 

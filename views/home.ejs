@@ -17,21 +17,20 @@
 
 		<% for (var i = 0; i < games.length; i++) { %>
 		<div class="poster"> 
-			<img src="/images/<%= games[i].poster %>" class="img-responsive">
+			<a href="/games/<%= games[i].game_number %>">	
+				<img src="/images/<%= games[i].poster %>" class="img-responsive">
 
-			<div class="poster-info-overlay">
-				<h3> <%= games[i].title  %> </h3>
-				<h4> View More <i class="fa fa-arrow-right"></i></h4>
-			</div>
+				<div class="poster-info-overlay">
+					<h3> <%= games[i].title  %> </h3>
+					<h4> View More <i class="fa fa-arrow-right"></i></h4>
+				</div>
+			</a>	
 		</div>
 		<% } %>
 
 	</div>
-	
 
-
-
-
+	<% include partials/footer.ejs %>
 	<% include partials/scripts.ejs %>
 </body>
 </html>

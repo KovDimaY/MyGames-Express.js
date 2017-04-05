@@ -18,13 +18,13 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/', routes.home);
 
 // games
-app.get('/games/:game_number', routes.games);
+app.get('/games/:game_number?', routes.games);
 
 // Page Not Found
 app.get('*', routes.notFound);
 
 
 //run our application
-app.listen(http_port, function() {
+app.listen(process.env.PORT || http_port, function() {
 	console.log("The application is running on http://" + http_IP + ':' + http_port);
 });

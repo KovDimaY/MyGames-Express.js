@@ -11,7 +11,7 @@
 				</a>
 				<ul class="dropdown-menu"> 
 					<% for (var i = 0; i < games.length; i++) { %>
-					<li> <a href="#" class="episode-link"> <%= games[i].title %> </a></li>
+					<li> <a href="/games/<%= games[i].game_number %>" class="episode-link"> <%= games[i].title %> </a></li>
 					<% } %>
 				</ul>
 			</li>
