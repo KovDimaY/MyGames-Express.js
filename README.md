@@ -14,7 +14,7 @@ One of the games page
 404 (not found) page 
 ![screenshot_3](https://cloud.githubusercontent.com/assets/26466644/24830042/2e24bff6-1c7e-11e7-8b5d-6bc610f9882e.png)
 
-### To install all required pachages write in your command line: 
+### To install all required packages write in your command line: 
 ```
 npm install
 ```
